@@ -1,0 +1,24 @@
+{
+  "name": "api_express_ecommercs",
+  "version": "1.0.0",
+  "description": "ecommerce api express js with dbmongo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/namyou11122003/api_express_ecommercs.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/namyou11122003/api_express_ecommercs/issues"
+  },
+  "homepage": "https://github.com/namyou11122003/api_express_ecommercs#readme",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
